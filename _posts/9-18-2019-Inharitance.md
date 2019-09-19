@@ -1,14 +1,15 @@
+
 ##Inharitance 
 
-* Grandfather = Electric
-1. Parent = Heating
-1. Child = Microwave
-1. Child = Toaster
+1. Grandfather = Electric
+* Parent = Heating
+* Child = Microwave
+* Child = Toaster
 
-* Parent = Sugar
-1. Child = Cereal (Frosted Flakes)?
+1. Parent = Sugar
+* Child = Cereal (Frosted Flakes)?
 
-* Grandfather = Electric
-1. Parent = Blending
-1. Blender
-1. Juicer
+1. Grandfather = Electric
+* Parent = Blending
+* Blender
+* Juicer
